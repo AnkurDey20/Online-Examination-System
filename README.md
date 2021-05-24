@@ -12,7 +12,7 @@ This project allows the examinee to mark questions for review and then reconside
 # Execution is as follows:-
 
 <img align="center" alt="Execution" width=""
-src="execution.gif" />
+src="Execution.gif" />
 
 <br />
 
